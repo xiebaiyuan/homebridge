@@ -2,7 +2,7 @@
 beta:
  - base-branch: ['^beta', 'beta', 'beta*']
 
-# Add 'alpha' label to any PR where the head branch name starts with `alpha` or has a `alpha` section in the name
+# Add 'alpha' label to any PR where the head branch name starts with `alpha` or has an `alpha` section in the name
 alpha:
  - base-branch: ['^alpha', 'alpha', 'alpha*']
 

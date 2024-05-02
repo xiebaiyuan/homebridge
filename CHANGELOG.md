@@ -7,6 +7,7 @@ All notable changes to `homebridge` will be documented in this file. This projec
 ### Changed
 
 - Updated dependencies (`hap-nodejs`)
+- correct comment for automatically added 'alpha' labels in labeler.yml (#3608) (@techm4te)
 
 ## v1.8.1 (2024-04-27)
 
